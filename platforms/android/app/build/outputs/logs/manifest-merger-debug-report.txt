@@ -1,0 +1,155 @@
+-- Merging decision tree log ---
+provider#org.apache.cordova.camera.FileProvider
+INJECTED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml:12:9-14:20
+	android:grantUriPermissions
+		ADDED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml:12:92-126
+	android:authorities
+		INJECTED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml:12:19-66
+	android:exported
+		ADDED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml:12:67-91
+	android:name
+		ADDED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml:12:127-180
+manifest
+ADDED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\gomez\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\73873d8fc81af152d6bbce5c2a0b3033\AndroidManifest.xml:17:1-22:12
+MERGED from [:CordovaLib] C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\CordovaLib\build\intermediates\manifests\full\debug\AndroidManifest.xml:20:1-27:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\gomez\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\e37cfbfbbb7df7e0ecfd7594884163ba\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\gomez\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\6ac9a3404f5229bab7975d90d62840b3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\gomez\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\d218e5656bdf6ee7de81f2f15eb27e28\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\gomez\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\ecfde4f96f86f81fef268393562c1ef8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\gomez\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\bf38a11869e57b97518a8ca2a8fef742\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\gomez\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\08aff0f4aaf27ec0d7adc1cc3084bd2b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\gomez\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\a95818bf3ec28df7f5e326be3958b09e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\gomez\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\81c0fd3330f9a5acc0fb83e7272f4d30\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\gomez\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\06660633bab56f1cb495e2498ea203b9\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml:2:102-138
+		INJECTED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml:2:74-101
+		INJECTED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml
+	android:hardwareAccelerated
+		ADDED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml:2:11-45
+	xmlns:android
+		ADDED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml:2:139-197
+	android:versionCode
+		ADDED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml:2:46-73
+		INJECTED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml
+supports-screens
+ADDED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml:3:5-191
+	android:largeScreens
+		ADDED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml:3:49-76
+	android:smallScreens
+		ADDED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml:3:132-159
+	android:normalScreens
+		ADDED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml:3:77-105
+	android:xlargeScreens
+		ADDED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml:3:160-188
+	android:resizeable
+		ADDED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml:3:106-131
+	android:anyDensity
+		ADDED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml:3:23-48
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml:5:5-15:19
+	android:supportsRtl
+		ADDED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml:5:114-140
+	android:label
+		ADDED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml:5:81-113
+	android:hardwareAccelerated
+		ADDED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml:5:18-52
+	android:icon
+		ADDED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml:5:53-80
+activity#com.example.lesson3handson.MainActivity
+ADDED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml:6:9-11:20
+	android:label
+		ADDED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml:6:97-134
+	android:launchMode
+		ADDED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml:6:135-165
+	android:windowSoftInputMode
+		ADDED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml:6:257-299
+	android:configChanges
+		ADDED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml:6:19-96
+	android:theme
+		ADDED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml:6:194-256
+	android:name
+		ADDED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml:6:166-193
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml:7:13-10:29
+	android:label
+		ADDED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml:7:28-65
+action#android.intent.action.MAIN
+ADDED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml:8:17-69
+	android:name
+		ADDED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml:8:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml:9:17-77
+	android:name
+		ADDED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml:9:27-74
+uses-sdk
+ADDED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml:16:5-74
+INJECTED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml:16:5-74
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\gomez\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\73873d8fc81af152d6bbce5c2a0b3033\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\gomez\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\73873d8fc81af152d6bbce5c2a0b3033\AndroidManifest.xml:20:5-44
+MERGED from [:CordovaLib] C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\CordovaLib\build\intermediates\manifests\full\debug\AndroidManifest.xml:25:5-44
+MERGED from [:CordovaLib] C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\CordovaLib\build\intermediates\manifests\full\debug\AndroidManifest.xml:25:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\gomez\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\e37cfbfbbb7df7e0ecfd7594884163ba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\gomez\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\e37cfbfbbb7df7e0ecfd7594884163ba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\gomez\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\6ac9a3404f5229bab7975d90d62840b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\gomez\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\6ac9a3404f5229bab7975d90d62840b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\gomez\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\d218e5656bdf6ee7de81f2f15eb27e28\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\gomez\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\d218e5656bdf6ee7de81f2f15eb27e28\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\gomez\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\ecfde4f96f86f81fef268393562c1ef8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\gomez\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\ecfde4f96f86f81fef268393562c1ef8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\gomez\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\bf38a11869e57b97518a8ca2a8fef742\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\gomez\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\bf38a11869e57b97518a8ca2a8fef742\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\gomez\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\08aff0f4aaf27ec0d7adc1cc3084bd2b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\gomez\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\08aff0f4aaf27ec0d7adc1cc3084bd2b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\gomez\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\a95818bf3ec28df7f5e326be3958b09e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\gomez\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\a95818bf3ec28df7f5e326be3958b09e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\gomez\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\81c0fd3330f9a5acc0fb83e7272f4d30\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\gomez\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\81c0fd3330f9a5acc0fb83e7272f4d30\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\gomez\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\06660633bab56f1cb495e2498ea203b9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\gomez\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\06660633bab56f1cb495e2498ea203b9\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml:16:5-74
+	android:targetSdkVersion
+		ADDED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml:16:42-71
+	android:minSdkVersion
+		ADDED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml:16:15-41
+		INJECTED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml:17:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml:18:5-79
+	android:name
+		ADDED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml:18:22-76
+uses-feature#android.hardware.location.gps
+ADDED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml:19:19-63
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml:20:22-78
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml:13:13-123
+	android:resource
+		ADDED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml:13:75-120
+	android:name
+		ADDED from C:\Users\gomez\Desktop\MyCordovaApps\Lesson3Handson\platforms\android\app\src\main\AndroidManifest.xml:13:24-74

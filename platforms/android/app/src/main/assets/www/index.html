@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+      
+        <meta http-equiv="Content-Security-Policy" 
+            content="default-src 'self' data: gap: https://ssl.gstatic.com 'unsafe-eval'; 
+            style-src 'self' 'unsafe-inline'; 
+            media-src *; 
+            script-src 'self' 'unsafe-inline';
+            img-src 'self' data: content:;">
+        <meta name="format-detection" content="telephone=no">
+        <meta name="msapplication-tap-highlight" content="no">
+        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width">
+        <link rel="stylesheet" href="css/index.css" type="text/css">
+        <title>Take Pictures</title>
+    </head>
+    <body>
+        <div class="app">
+            <h1>Cordova Camera App</h1>
+            <div id="deviceready" class="blink">
+                <p class="event listening">Connecting to Device</p>  
+                <p class="event listening">Device is Ready</p>  
+                <button id="getPosition">Current position</button>
+                <button id="cameraTakePicture">Take Picture</button>
+                <img id="myImage" class="responsive" />
+            </div>                                
+        </div>
+
+        <script type="text/javascript" src="cordova.js"></script>
+        <script type="text/javascript" src="js/index.js"></script>
+    </body>
+</html>
